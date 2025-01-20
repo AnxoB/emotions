@@ -1,0 +1,18 @@
+#card1{
+    background-color: var(--bs-yellow);
+}
+#card2{
+    background-color: var(--bs-pink);
+}
+#card3{
+    background-color: var(--bs-green);
+}
+#card4{
+    background-color: var(--bs-purple);
+}
+#card5{
+    background-color: var(--bs-blue);
+}
+#card6{
+    background-color: var(--bs-red);
+}
