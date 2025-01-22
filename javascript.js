@@ -1,10 +1,9 @@
-function changeOP(){
-    let visibility = document.getElementById("img1");
-    visibility.style.opacity = 100
+function changeOP(img) {
+    img.style.opacity = 1;
 }
-function changeOP2(){
-    let visibility = document.getElementById("img1");
-    visibility.style.opacity = 0
+
+function changeOP2(img) {
+    img.style.opacity = 0;
 }
 
 
